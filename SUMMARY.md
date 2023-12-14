@@ -2,14 +2,13 @@
 
 * [📃 Bigcoin Whitepaper](README.md)
   * [📜 Disclaimer: Notice for Bigcoin ($BCT) Investors](bigcoin-whitepaper/disclaimer-notice-for-bigcoin-usdbct-investors.md)
-  * [📔 Terms of Service](bigcoin-whitepaper/terms-of-service.md)
+  * [📔 Terms of Service](bigcoin-whitepaper/terms-of-service/README.md)
+    * [🏗 Introduction](bigcoin-whitepaper/terms-of-service/introduction/README.md)
+      * [🛫 Vision, Mission, and Values](bigcoin-whitepaper/terms-of-service/introduction/vision-mission-and-values.md)
+      * [📖 Tokenomics](bigcoin-whitepaper/terms-of-service/introduction/tokenomics.md)
+      * [🕵♀ Project Objectives](bigcoin-whitepaper/terms-of-service/introduction/project-objectives.md)
 
 ## Core
-
-* [🏗 Introduction](core/introduction.md)
-* [🛫 Vision, Mission, and Values](core/vision-mission-and-values.md)
-* [📖 Tokenomics](core/tokenomics.md)
-* [🕵♀ Project Objectives](core/project-objectives.md)
 
 ***
 
