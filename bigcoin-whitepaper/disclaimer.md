@@ -1,8 +1,8 @@
 ---
-description: ⚠️ Important Notice
+description: ⚠️ Important Notice for Bigcoin ($BCT) Investors
 ---
 
-# 📜 Disclaimer: Notice for Bigcoin ($BCT) Investors
+# 📜 Disclaimer
 
 By accessing this documentation, you acknowledge and agree to the terms outlined herein. Bigcoin ($BCT) emphasizes that the content provided is for informational purposes only and does not constitute endorsement or influence on cryptocurrency investment or trading activities, whether on our platforms or elsewhere.
 
